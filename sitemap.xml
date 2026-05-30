@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rapteasdesigns.gr/</loc>
-    <priority>1.00</priority>
+    <loc>https://rapteasdesigns.com/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rapteasdesigns.gr/#electronics</loc>
+    <loc>https://rapteasdesigns.com/about.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rapteasdesigns.gr/#automation</loc>
-  </url>
-  <url>
-    <loc>https://rapteasdesigns.gr/#agriculture</loc>
-  </url>
-  <url>
-    <loc>https://rapteasdesigns.gr/#printing</loc>
-  </url>
-  <url>
-    <loc>https://rapteasdesigns.gr/#repairs</loc>
-  </url>
-  <url>
-    <loc>https://rapteasdesigns.gr/#contact</loc>
+    <loc>https://rapteasdesigns.com/contact.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
