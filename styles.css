@@ -77,7 +77,25 @@ a.contact-item:hover { color: var(--muted); }
 /* Footer */
 footer { border-top: 1px solid var(--border); padding: 32px 24px; text-align: center; font-size: 12px; color: var(--muted); letter-spacing: 0.1em; text-transform: uppercase; }
 
+/* Desktop overrides */
 @media (min-width: 768px) {
   .hero h1 { font-size: 56px; }
   .page-title { font-size: 40px; }
+}
+
+/* Mobile Header Fix */
+@media (max-width: 640px) {
+  .header-inner {
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px 20px;
+  }
+  .nav {
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
+  }
+  main {
+    padding-top: 150px; 
+  }
 }
